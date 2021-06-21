@@ -1,0 +1,15 @@
+C:\Users\Senan\source\repos\AgileTask\AgileTask.DataAccess\bin\Debug\netcoreapp3.1\AgileTask.Entities.dll
+C:\Users\Senan\source\repos\AgileTask\AgileTask.DataAccess\obj\Debug\netcoreapp3.1\AgileTask.DataAccess.csprojAssemblyReference.cache
+C:\Users\Senan\source\repos\AgileTask\AgileTask.DataAccess\obj\Debug\netcoreapp3.1\AgileTask.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Senan\source\repos\AgileTask\AgileTask.DataAccess\obj\Debug\netcoreapp3.1\AgileTask.DataAccess.AssemblyInfo.cs
+C:\Users\Senan\source\repos\AgileTask\AgileTask.DataAccess\bin\Debug\netcoreapp3.1\AgileTask.DataAccess.deps.json
+C:\Users\Senan\source\repos\AgileTask\AgileTask.DataAccess\bin\Debug\netcoreapp3.1\AgileTask.DataAccess.runtimeconfig.json
+C:\Users\Senan\source\repos\AgileTask\AgileTask.DataAccess\bin\Debug\netcoreapp3.1\AgileTask.DataAccess.runtimeconfig.dev.json
+C:\Users\Senan\source\repos\AgileTask\AgileTask.DataAccess\bin\Debug\netcoreapp3.1\AgileTask.DataAccess.dll
+C:\Users\Senan\source\repos\AgileTask\AgileTask.DataAccess\bin\Debug\netcoreapp3.1\AgileTask.DataAccess.pdb
+C:\Users\Senan\source\repos\AgileTask\AgileTask.DataAccess\bin\Debug\netcoreapp3.1\AgileTask.Entities.pdb
+C:\Users\Senan\source\repos\AgileTask\AgileTask.DataAccess\obj\Debug\netcoreapp3.1\AgileTask.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Senan\source\repos\AgileTask\AgileTask.DataAccess\obj\Debug\netcoreapp3.1\AgileTask.DataAccess.csproj.CopyComplete
+C:\Users\Senan\source\repos\AgileTask\AgileTask.DataAccess\obj\Debug\netcoreapp3.1\AgileTask.DataAccess.dll
+C:\Users\Senan\source\repos\AgileTask\AgileTask.DataAccess\obj\Debug\netcoreapp3.1\AgileTask.DataAccess.pdb
+C:\Users\Senan\source\repos\AgileTask\AgileTask.DataAccess\obj\Debug\netcoreapp3.1\AgileTask.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,48 @@
+﻿@model ActionLoggerViewModel
+@{
+    ViewData["Title"] = "Index2";
+}
+
+<h1>Index2</h1>
+
+@*<p>
+    @Html.ActionLink("Create New", "Create")
+</p>*@
+
+@using (Html.BeginForm("Index", "ActionLogger", FormMethod.Get))
+{
+    <fieldset>
+        <legend>Search criteria</legend>
+        @Html.Label("startDate", "Start Date:")
+        <input class="startDate" id="startDate" name="startDate" type="date" value="">
+        @Html.Label("endDate", "End Date:")
+        <input class="startDate" id="endDate" name="endDate" type="date" value="">
+        <input type="submit" value="Apply" />
+    </fieldset>
+}
+
+
+<table class="table">
+    <tr>
+        <th>
+            Created Date
+        </th>
+        <th>
+            Content
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model.ActionLoggers)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Content)
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,9 @@
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Entities\bin\Debug\netcoreapp3.1\AgileTask.Entities.deps.json
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Entities\bin\Debug\netcoreapp3.1\AgileTask.Entities.dll
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Entities\bin\Debug\netcoreapp3.1\AgileTask.Entities.pdb
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Entities\obj\Debug\netcoreapp3.1\AgileTask.Entities.AssemblyInfoInputs.cache
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Entities\obj\Debug\netcoreapp3.1\AgileTask.Entities.AssemblyInfo.cs
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Entities\obj\Debug\netcoreapp3.1\AgileTask.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Entities\obj\Debug\netcoreapp3.1\AgileTask.Entities.dll
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Entities\obj\Debug\netcoreapp3.1\AgileTask.Entities.pdb
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Entities\obj\Debug\netcoreapp3.1\AgileTask.Entities.csprojAssemblyReference.cache

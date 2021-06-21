@@ -1,0 +1,103 @@
+<ul class="pagination">
+<li class="PagedList-skipToFirst">   <a href="/?page=1">&lt;&lt;</a>    </li>
+<li class="PagedList-skipToPrevious">
+<a href="/?page=7" rel="prev">&lt;</a></li>
+<li class="PagedList-ellipses"><a class="PagedList-skipToPrevious" href="/?page=2" rel="prev">…</a></li>
+<li><a href="/?page=3">3</a></li>
+<li><a href="/?page=4">4</a></li>
+<li><a href="/?page=5">5</a></li>
+<li><a href="/?page=6">6</a></li>
+<li><a href="/?page=7">7</a></li>
+<li class="active"><span>8</span></li>
+<li><a href="/?page=9">9</a></li>
+<li><a href="/?page=10">10</a></li>
+<li><a href="/?page=11">11</a></li>
+<li><a href="/?page=12">12</a></li>
+
+
+<li class="PagedList-ellipses"><a class="PagedList-skipToNext" href="/?page=13" rel="next">…</a></li><li class="PagedList-skipToNext"><a href="/?page=9" rel="next">&gt;</a></li><li class="PagedList-skipToLast"><a href="/?page=574">&gt;&gt;</a></li></ul>
+
+
+
+------
+
+
+ <tfoot>
+        <tr>
+            <td colspan="4">
+                <div class="row">
+                    <div class="col">
+                        <ul class="pagination">
+                            <li area-label="First" class="disabled page-item">
+                                <a class="page-link" tabindex="-1">
+                                    <span area-hidden="true">«</span>
+                                    <span class="sr-only">First</span>
+                                </a>
+                            </li>
+                            <li area-label="Previous" class="disabled page-item">
+                                <a class="page-link" tabindex="-1">
+                                    <span area-hidden="true">‹</span>
+                                    <span class="sr-only">Previous</span>
+                                </a>
+                            </li>
+                            <ul class="pagination">
+                                <li class="PagedList-skipToFirst">
+                                    <a href="/?page=1">&lt;&lt;</a>
+                                </li>
+                                <li class="PagedList-ellipses"><a class="PagedList-skipToPrevious" href="/?page=2" rel="prev">…</a></li>
+                                @for (int i = 1; i < Math.Ceiling((decimal)Model.ActionLoggers.Count / 20); i++)
+                                {
+
+                                    <li>
+                                        <a href="/?page=@i">@i</a>
+                                    </li>
+                                }
+                            </ul>
+
+                            <li class="active page-item">
+                                <a class="page-link" tabindex="-1">1</a>
+                            </li>
+
+                            <li class="page-item"><a class="page-link" href="?&amp;p=8&amp;s=10">8</a></li>
+                            <li class="page-item">
+                                <a class="page-link" href="?&amp;p=9&amp;s=10">9</a>
+                            </li>
+                            <li class="page-item">
+                                <a class="page-link" href="?&amp;p=10&amp;s=10">10</a>
+                            </li>
+                            <li class="page-item border-0">&nbsp;...&nbsp;</li>
+                            <li class="page-item">
+                                <a class="page-link" href="?&amp;p=38&amp;s=10">38</a>
+                            </li>
+                            <li area-label="Next" class="page-item">
+                                <a class="page-link" href="?&amp;p=2&amp;s=10">
+                                    <span area-hidden="true">›</span>
+                                    <span class="sr-only">Next</span>
+                                </a>
+                            </li>
+                            <li area-label="Last" class="page-item">
+                                <a class="page-link" href="?&amp;p=38&amp;s=10">
+                                    <span area-hidden="true">»</span>
+                                    <span class="sr-only">Last</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-1">
+                        <div class="dropdown">
+                            <button aria-expanded="false" aria-haspopup="true" class="btn btn-light dropdown-toggle" data-toggle="dropdown" id="pagingDropDownMenuBtn" type="button">10</button>
+                            <div aria-labelledby="pagingDropDownMenuBtn" class="dropdown-menu dropdown-menu-right">
+                                <a class="active dropdown-item" href="?&amp;p=1&amp;s=10">10</a>
+                                <a class="dropdown-item" href="?&amp;p=1&amp;s=25">25</a>
+                                <a class="dropdown-item" href="?&amp;p=1&amp;s=50">50</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <span class="badge badge-light">38 pages</span>
+                        <span class="badge badge-dark">@Model.ActionLoggers.Count</span>
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </tfoot>

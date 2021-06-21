@@ -1,0 +1,14 @@
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Business\bin\Debug\netcoreapp3.1\AgileTask.Business.deps.json
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Business\bin\Debug\netcoreapp3.1\AgileTask.Business.dll
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Business\bin\Debug\netcoreapp3.1\AgileTask.Business.pdb
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Business\bin\Debug\netcoreapp3.1\AgileTask.DataAccess.dll
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Business\bin\Debug\netcoreapp3.1\AgileTask.Entities.dll
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Business\bin\Debug\netcoreapp3.1\AgileTask.DataAccess.pdb
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Business\bin\Debug\netcoreapp3.1\AgileTask.Entities.pdb
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Business\obj\Debug\netcoreapp3.1\AgileTask.Business.csprojAssemblyReference.cache
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Business\obj\Debug\netcoreapp3.1\AgileTask.Business.AssemblyInfoInputs.cache
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Business\obj\Debug\netcoreapp3.1\AgileTask.Business.AssemblyInfo.cs
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Business\obj\Debug\netcoreapp3.1\AgileTask.Business.csproj.CoreCompileInputs.cache
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Business\obj\Debug\netcoreapp3.1\AgileTask.Business.csproj.CopyComplete
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Business\obj\Debug\netcoreapp3.1\AgileTask.Business.dll
+C:\Users\Senan\source\repos\AgileTask\AgileTask.Business\obj\Debug\netcoreapp3.1\AgileTask.Business.pdb
